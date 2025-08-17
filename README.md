@@ -12,7 +12,7 @@
 🎓 Final-year B.Tech student at IIIT Manipur  
 🚀 Passionate about building scalable ML/AI systems  
 🏆 Top 6% in Kaggle "NLP with Disaster Tweets" challenge  
-📄 [View My Resume](https://drive.google.com/file/d/1AGruGXpdO50RKLqNY1eglVOLiONTSM3m/view?usp=sharing)  
+📄 [View My Resume](https://drive.google.com/file/d/15LrSmfgCQ95nm0bk0A4IPF4xAfKDd3Ux/view?usp=sharing)  
 🌐 [Visit My Portfolio](https://portfolio-sachin-674101030106.us-central1.run.app/)
 
 ---
