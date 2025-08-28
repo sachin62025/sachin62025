@@ -48,18 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sachin62025&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin62025&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin62025" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
 <a href="https://linkedin.com/in/sachinkumar184/">
